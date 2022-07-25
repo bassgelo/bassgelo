@@ -1,16 +1,16 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: Gerardo
+  LastName: Manzano
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +44 123 456 789
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: gmanzano.mx@gmail.com
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: https://www.linkedin.com/in/gerardomanzano/
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Vienna, Austria
 
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
