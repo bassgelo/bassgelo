@@ -1,0 +1,38 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "Gerardo Manzano - CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#000"
+
+#used in the background of the whole website, not the background of the CV area
+colorPageBackground = "#999" 
+
+#colors for text sections
+colorPrimary = "#78aa07" #used in the last name
+colorSecondary = "#477" #used in the given name
+
+#colors for the icons in the sections
+colorIconPrimary = "#fff" #used in the text inside the icons
+colorIconBackground = "#78aa07" #used in the color of the buttos
+
+#colors for the right side of the SV
+colorRightColumnBackground = "#444"
+colorRightColumnHeadingText = "#fff"
+colorRightColumnBodyText = "#fff"
+
+#colors for the icons on the right side section
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#78aa07"
+
+pages = 1
