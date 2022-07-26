@@ -3,38 +3,39 @@ BasicInfo:
   LastName: Manzano
   Photo: img/avatar.jpg
   Contacts:
-#    - Icon: fas fa-phone
-#      Info: +44 123 456 789
     - Icon: fas fa-envelope
       Info: gmanzano.mx@gmail.com
     - Icon: fas fa-globe
       Info: linkedin.com/in/gerardomanzano/
+    - Icon: fas fa-pen
+      Info: medium.com/@gmanzano.mx
+    - Icon: fas fa-code
+      Info: github.com/bassgelo
     - Icon: fas fa-map-marker-alt
       Info: Vienna, Austria
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Automation Technologist consulting organizations in their digital transformation journey and generating added value for their business. Bringing global experience in the fields of process automation and process innovation. Working with Technology Watch, Foresight and Lean Startup processes and guidelines, adopting emerging key industry trends to strengthen process and service innovation aligned to business strategic priorities.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: J-IT Dienstleistungs GesmbH
+    Place: Vienna, AT
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Lead Automation Engineer
+        Date: May 2020 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
+          - Creating and delivering process automation trainings with Camunda and BPMN 2.0 to interdisciplinary groups on client side, approx. 10 per year. 
+          - Guiding design and implementation of automation processes during PoCs with developers, business analysts, and end users, approx. 5 per year.
+          - Developing USPs by Identification of trends, tools, and strategies for process automation using technology watch methodologies.
+          - Reporting to executive-levels outlining ongoing efficiency of automation team. Conducting 1-on-1, and performing people management.
+          - Identifying trends with client base and generating ideas for new products and services for our automation technology landscape.
+          - Performing technical pre-sales, providing consulting of Camunda Platform, BPMN 2.0, and Spring Boot.
+        Badges: ['Leadership', 'Consulting', 'Team Building',  'Mentoring', 'Automation', 'Business Process', 'Technology Management']
+      - Title: Process Automation Engineer
+        Date: Aug 2017 - May 2017
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+          - Developing automated routines in Camunda platform with BPMN 2.0, and Spring Boot.
+          - Developing and maintaining clear and accurate documentation of automated processes.
+        Badges: ['Camunda', 'Business Process', 'SpringBoot', 'BPMN 2.0', 'Agile']
   - Employer: Another super cool company
     Place: Lisbon, PT
     Positions:
