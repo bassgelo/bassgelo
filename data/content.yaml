@@ -36,103 +36,128 @@ Experience:
           - Developing automated routines in Camunda platform with BPMN 2.0, and Spring Boot.
           - Developing and maintaining clear and accurate documentation of automated processes.
         Badges: ['Camunda', 'Business Process', 'SpringBoot', 'BPMN 2.0', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+  - Employer: Centre for Social Innovation
+    Place: Vienna, AT
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Assistant Researcher
+        Date: Nov 2016 - Apr 2017
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+          - Conducting bibliometric study on scientific cooperation between the EU & Japan, delivering report on findings.
+          - Increasing accuracy of process by combining databases records, surpassing bench-marking quality standards.
+        Badges: ['Leadership', 'Data Analysis', 'Bibliometrics', 'Research Methodology',  'Technical Writing', 'Databases']
+      - Title: Intern at Research, Policy, and Development Group
+        Date: Oct 2015 - Mar 2016
+        Details:
+          - Conducted analysis and research about green energy sources and society acceptance, with a balance of short-long term challenges for Eastern Europe and Russia.
+          - Delivered findings to working groups of economic and innovation policy in the EU.
+          - Developed bibliometric analyses of international academic co-publications of ASEA UNINET, informing stakeholders on recommendations for policies.
+        Badges: ['Data Analysis', 'Bibliometrics', 'Research Methodology', 'Technical Writing', 'Databases']
+  - Employer: BIC Consulting International
+    Place: Austin Texas USA
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Java Software Engineer at 3M Group
+        Date: May 2013 - Jul 2014
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Improved digital image processing modules (pattern recognition for typography in license plates) increasing reading efficiency of toll roads during rush hour, i.e. 30% more accuracy.
+        Badges: ['Software Development', 'Team Building', 'Image Processing',  'DevOps', 'Testing', 'Databases' ]
+    Place: Puebla Mexico
+    Positions:   
+      - Title: Java Consultant at Volkswagen Group
+        Date: Sep 2011 - Sep 2012
+        Details:
+          - Replaced a 30-year-old system in commercial & financial modules inside VW North America, improving operations between North American and European manufacturing plants and benefiting 20 key users.
+          - Performed knowledge transfer by promoting adoption of emerging standards for software application development in a team of 10 members.
+        Badges: ['Leadership', 'Software Development', 'Team Building', 'Consulting', 'DevOps', 'Testing', 'Databases']
+    Positions:   
+      - Title: Java Developer
+        Date: Dec 2009 - Aug 2011
+        Details:
+          - Led a development team of 5 persons, providing business rules and domain knowledge.
+          - Technical contact for 10 clients, providing support and mentoring in the digital journey of their billing transformation.
+          - Couched 2 key users per client and influenced decision makers of different SME's.
+        Badges: ['Leadership', 'Mentoring', 'Software Development', 'Team Building', 'Consulting', 'Testing', 'Databases']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: MSc in Governance of Science, Technology and Innovation
+    Place: Russia - Higher School of Economics
+    Date: 2014 - 2016
+    
+  - Course: MSc in Innovation and Technolgy Management
+    Place: Mexico - Universidad Politecnica de Puebla
+    Date: 2010 - 2013
 
-References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 790
-    - Icon: fas fa-envelope
-      Info: contact@person-one.com
-    - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
-    - Icon: fas fa-envelope
-      Info: contact@person-two.com
-    - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
+  - Course: BSc in Computer Science
+    Place: Mexico - Benemerita Universidad Autonoma de Puebla
+    Date: 2003 - 2008
+
+#References:
+#  - Name: Person One
+#    Relation: Co-worker at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 790
+#    - Icon: fas fa-envelope
+#      Info: contact@person-one.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Melbourne, Australia
+#  - Name: Person Two
+#    Relation: Boss at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 791
+#    - Icon: fas fa-envelope
+#      Info: contact@person-two.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Sydney, Australia
 
 
 Skills:
   - Family: Programming
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
+      - Java
+      - HTML
       - CSS
-      - SASS
       - SQL
-      - C#
       - Bash
-      - MATLAB
   - Family: Frameworks
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
+      - Spring Boot
+      - Spring
+      - Camunda Platform
+      - Hugo Static Site Generator
   - Family: Developer Tools
     Items:
       - Git
       - Docker
+      - Kubernetes
       - Jenkins
       - AWS
-  - Family: Misc
+  - Family: Business Modeling
     Items:
-      - Adobe Tools
-      - LaTeX
+      - BPMN
+      - DMN
+      - CMMN
+      - UML
 
 Languages:
-  - Name: Portuguese
-    Level: Native
   - Name: English
-    Level: C2
+    Level: Full professional proficiency
   - Name: Spanish
-    Level: B1
+    Level: Full professional proficiency
   - Name: German
-    Level: B1
+    Level: Full professional proficiency
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Camunda Certified Engineer (2022)
+  - Camunda Certified Trainer (2022)
+  - FutureLearn Teaching Online Providing Continuity for Students (2021)
+  - Oracle Certified Web Component Expert (2016)
+  - Oracle Certified Java Programmer (2016)
 
 Interests:
-  - Bouldering
+  - Football
   - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
+  - Hiking
+  - Punk Rock
+  - Brewing
   - Languages
