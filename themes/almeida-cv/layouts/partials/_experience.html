@@ -8,17 +8,17 @@
             {{ range .Experience }}
             <div class="experience__item">
                 <div class="experience__header">
-                    <h3 class="experience__company">
+                    <h2 class="experience__company">
                         {{ .Employer | safeHTML }}
-                    </h3>
+                    </h2>
                     <h3 class="experience__place">{{ .Place | safeHTML }}</h3>
                 </div>
                 {{ range .Positions }}
                 <div class="experience__job">
                     <div class="experience__subheader">
-                        <h3 class="experience__position">
+                        <h4 class="experience__position">
                             {{ .Title | safeHTML}}
-                        </h3>
+                        </h4>
                         <h3 class="experience__date">{{ .Date | safeHTML }}</h3>
                     </div>
                     <ul>

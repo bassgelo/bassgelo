@@ -14,68 +14,63 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Vienna, Austria
 
-Profile: Automation Technologist consulting organizations in their digital transformation journey and generating added value for their business. Bringing global experience in the fields of process automation and process innovation. Working with Technology Watch, Foresight and Lean Startup processes and guidelines, adopting emerging key industry trends to strengthen process and service innovation aligned to business strategic priorities.
+Profile: Business Solutions Architect & Tranformation Manager. I consult organizations in their digital transformation journey with a holistic approach, in other words a People-Process-Product approach, generating added value for their business in the products and services. I am bringing global and international experience in the fields of software development, business process management, and technology management.
 
 Experience:
   - Employer: J-IT Dienstleistungs GesmbH
     Place: Vienna, AT
     Positions:
-      - Title: Lead Automation Engineer
+      - Title: Lead Business Process Engineer
         Date: May 2020 - Present
         Details:
-          - Creating and delivering process automation trainings with Camunda and BPMN 2.0 to interdisciplinary groups on client side, approx. 10 per year. 
-          - Guiding design and implementation of automation processes during PoCs with developers, business analysts, and end users, approx. 5 per year.
-          - Developing USPs by Identification of trends, tools, and strategies for process automation using technology watch methodologies.
-          - Reporting to executive-levels outlining ongoing efficiency of automation team. Conducting 1-on-1s, performing evaluation and feedback meetings.
-          - Identifying trends with client base and generating ideas for new products and services for our automation technology landscape.
-        Badges: ['Leadership', 'Team Building',  'Mentoring', 'Automation', 'Business Process', 'Technology Management']
-      - Title: Process Automation Engineer
+          - Responsible for designing IT Business Solutions, especifically in the area of Business Process Management for greenfield and greyfield projects, ~5 per year.
+          - Responsible for designing, creating & delivering custom technical trainings for interdisciplinary groups on client side, ~15 per year. 
+          - Mentoring junior developers and coaching consultants. Outcome is ~12 certified developers and consultants since 2020.
+          - Contributing to the generation of a positive work environment (approaches, tools, 1-on-1's, code reviews, evaluations & feedbacks).
+        Badges: ['Leadership', 'Team Building', 'Coaching', 'Business Process Management']
+      - Title: Business Process Engineer
         Date: Aug 2017 - May 2020
         Details:
-          - Performing technical pre-sales, providing product presentations Camunda Platform, BPMN 2.0, and Spring Boot.
-          - Developing automated routines in Camunda platform with BPMN 2.0, and Spring Boot.
-          - Developing and maintaining clear and accurate documentation of automated processes.
-        Badges: ['Camunda', 'Business Process', 'SpringBoot', 'BPMN 2.0', 'Agile']
+          - Performing technical pre-sales and product presentations, to increase sales and familiarity with product, ~2 per month
+          - Developing IT Business solutions with Java, Spring Boot, BPMN 2.0, Docker, AWS, and Camunda
+        Badges: ['Software Development', 'Databases', 'Agile']
+  - Employer: Lauder Business School
+    Place: Vienna, AT
+    Positions:
+      - Title: Lecturer
+        Date: Aug 2022 - Present
+        Details:
+          - Lecturing "Business Process and Quality Management" in the Master Programme "International Management & Leadership"
+        Badges: ['Leadership', 'Communication ', 'Teaching', 'Education Program Development']
   - Employer: Centre for Social Innovation
     Place: Vienna, AT
     Positions:
       - Title: Assistant Researcher
         Date: Nov 2016 - Apr 2017
         Details:
-          - Conducting bibliometric study on scientific cooperation between the EU & Japan, delivering report on findings.
-          - Increasing accuracy of process by combining databases records, surpassing bench-marking quality standards.
-        Badges: ['Leadership', 'Data Analysis', 'Bibliometrics', 'Research Methodology',  'Technical Writing', 'Databases']
-      - Title: Intern at Policy, and Development Group
-        Date: Oct 2015 - Mar 2016
-        Details:
-          - Conducted analysis and research about green energy sources and society acceptance, with a balance of short-long term challenges for Eastern Europe and Russia.
-          - Delivered findings to working groups of economic and innovation policy in the EU.
-          - Developed bibliometric analyses of international academic co-publications of ASEA UNINET, informing stakeholders on recommendations for policies.
-        Badges: ['Data Analysis', 'Bibliometrics', 'Research Methodology', 'Technical Writing', 'Databases']
+          - Conducting bibliometric study (data analysis process for scientific publications) on cooperation between the Europen Union & Japan, increasing accuracy of data cleaning phase by automation the step in the process, surpassing bench-marking quality standards.
+        Badges: ['International Cooperation', 'Data Analysis', 'Research Methodology']
   - Employer: BIC Consulting International
     Place: Austin, USA
     Positions:
-      - Title: Java Software Engineer at 3M Group
+      - Title: Java Engineer at 3M Group
         Date: May 2013 - Jul 2014
         Details:
-          - Improved digital image processing modules (pattern recognition for typography in license plates) increasing reading efficiency of toll roads during rush hour, i.e. 30% more accuracy.
-        Badges: ['Software Development', 'Team Building', 'Image Processing', 'Testing', 'Databases' ]
+          - Improved digital image processing (pattern recognition for license plates), increasing reading efficiency of toll roads, i.e. 30% more accuracy.
+        Badges: ['Software Development', 'Databases', 'Agile']
   - Employer: BIC Consulting Mexico  
     Place: Puebla Mexico
     Positions:   
-      - Title: Java Consultant at Volkswagen Group
+      - Title: Java Engineer at Volkswagen Group
         Date: Sep 2011 - Sep 2012
         Details:
-          - Replaced a 30-year-old system in commercial & financial modules inside VW North America, improving operations between North American and European manufacturing plants and benefiting 20 key users.
-          - Performed knowledge transfer by promoting adoption of emerging standards for software application development in a team of 10 members.
-        Badges: ['Leadership', 'Software Development', 'Team Building', 'Consulting', 'Testing', 'Databases']
-      - Title: Java Developer
+          - Replaced a 30-year-old financial system for Volkswagen North America, improving operations between North American and European manufacturing plants, benefiting 20 key users.
+        Badges: ['Software Development', 'Databases', 'Agile']
+      - Title: Java Engineer
         Date: Dec 2009 - Aug 2011
         Details:
-          - Led a development team of 5 persons, providing business rules and domain knowledge.
-          - Technical contact for 10 clients, providing support and mentoring in the digital journey of their billing transformation.
-          - Couched 2 key users per client and influenced decision makers of different SME's.
-        Badges: ['Leadership', 'Software Development', 'Consulting', 'Testing', 'Databases']
+          - Led a development team of 5 persons, providing business rules and domain knowledge & technical contact for 10 clients, providing support in their product adoption journey.
+        Badges: ['Software Development', 'Databases', 'Agile']
 
 Education:
   - Course: MSc in Governance of Science, Technology and Innovation
@@ -115,17 +110,16 @@ Skills:
   - Family: Programming
     Items:
       - Java
-      - HTML
-      - CSS
+      - Python
+      - HTML & CSS
       - SQL
-      - Bash
   - Family: Frameworks
     Items:
       - Spring Boot
-      - Spring
+      - Spring Framework
       - Camunda Platform
       - Hugo Static Site Generator
-  - Family: Developer Tools
+  - Family: Development Tools
     Items:
       - Git
       - Docker
@@ -148,16 +142,17 @@ Languages:
     Level: Full professional proficiency
 
 Diplomas:
+  - Camunda Champion
   - Camunda Certified Engineer
   - Camunda Certified Trainer
   - FutureLearn Teaching Online
   - Oracle Certified Web Component Expert
   - Oracle Certified Java Programmer
 
-Interests:
-  - Football
-  - Cooking
-  - Hiking
-  - Punk Rock
-  - Brewing
-  - Languages
+#Interests:
+#  - Football
+#  - Cooking
+#  - Hiking
+#  - Punk Rock
+#  - Brewing
+#  - Languages
